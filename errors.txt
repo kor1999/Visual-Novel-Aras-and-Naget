@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 2252: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    be "Не хило нас, да?"
+    ^
+
+File "game/script.rpy", line 2458: expected statement.
+    Я остался на едине с своими мыслями.
+                                       ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Sun Dec 18 04:09:57 2022
